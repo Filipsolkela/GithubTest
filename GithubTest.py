@@ -5,3 +5,7 @@ print(x)
 
 y = list[1,2,3]
 print(y)
+
+#hello...
+
+z = 3
